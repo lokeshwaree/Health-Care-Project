@@ -1,2 +1,2 @@
-# Health-Care-Project
+# Health-Care-Dashboard
 Powerbi Project
